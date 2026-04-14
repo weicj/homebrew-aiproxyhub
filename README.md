@@ -5,7 +5,7 @@ Current packaged version: `0.3.1`
 ## Install
 
 ```bash
-brew tap weicj/homebrew-tap
+brew tap weicj/tap
 brew install ai-proxy-hub
 ```
 
