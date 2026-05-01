@@ -3,8 +3,8 @@ class AiProxyHub < Formula
 
   desc "Cross-platform local AI proxy hub with CLI and web dashboard"
   homepage "https://github.com/weicj/ai-proxy-hub"
-  url "https://github.com/weicj/ai-proxy-hub/releases/download/v0.3.1/ai-proxy-hub-0.3.1.tar.gz"
-  sha256 "a66e9b88ec4f2766dcb5713cfff6cd9d8144b9f0e0f69eb562194cfebcf5f4e6"
+  url "https://github.com/weicj/ai-proxy-hub/releases/download/v0.3.2/ai-proxy-hub-0.3.2.tar.gz"
+  sha256 "38d96d7c5b8cd1e644df7d0028697785d5d9f90d7b154e27a15953409c1b05ca"
   license "Apache-2.0"
   depends_on "python"
 

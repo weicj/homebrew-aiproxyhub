@@ -1,6 +1,6 @@
 # Homebrew Tap for AI Proxy Hub
 
-Current packaged version: `0.3.1`
+Current packaged version: `0.3.2`
 
 ## Install
 
